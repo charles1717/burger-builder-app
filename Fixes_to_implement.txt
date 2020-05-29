@@ -1,0 +1,7 @@
+1). For large screens/laptop screens - create a box (with a white background that the burger fits in)
+2). The BurgerBuilder component should be entirely visible when the burger is empty
+3). It should take a massive burger to make parts of the BurgerBuilder start to disappear
+4). The Burger component box should be surrounded by a border design
+5). Change the Modal to a class and optimize it to only render when show is true. Use this as an opportunity to complete the following lectures:
+    - 7.97, 7.99, 7.100
+6) Active links doesn't work 
